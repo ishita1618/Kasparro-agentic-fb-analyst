@@ -16,5 +16,10 @@ An autonomous multi-agent system that diagnoses Facebook Ads performance, identi
 
 # How to Run
 ```bash
+The project is a standard Python application. You can run it immediately using these commands:
+
+git clone https://github.com/ishita1618/Kasparro-agentic-fb-analyst.git
+cd Kasparro-agentic-fb-analyst
 pip install -r requirements.txt
 python run.py
+```
