@@ -1,0 +1,7 @@
+model_name: "gpt-4o"
+thresholds:
+  low_ctr: 0.015
+  roas_drop_alert: 0.20
+paths:
+  data: "data/synthetic_fb_ads_undergarments.csv"
+  reports: "reports/"
