@@ -1,6 +1,6 @@
 # Kasparro Agentic Facebook Performance Analyst
 
-#Objective
+
 An autonomous multi-agent system that diagnoses Facebook Ads performance, identifies reasons behind ROAS fluctuation, and recommends new creative directions.
 
 # Architecture
